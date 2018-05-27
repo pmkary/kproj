@@ -1,0 +1,22 @@
+{
+  "name": "kproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "kproj": "bin/estimate.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmkary/reader-app-cost-estimation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmkary/reader-app-cost-estimation/issues"
+  },
+  "homepage": "https://github.com/pmkary/reader-app-cost-estimation#readme"
+}
